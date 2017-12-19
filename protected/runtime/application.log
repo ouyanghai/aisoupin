@@ -1,0 +1,616 @@
+2016/11/30 09:33:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/
+---
+2016/11/30 09:34:46 [error] [php] Undefined index: title (D:\wwwroot\aisoupin\protected\views\layouts\main.php:5)
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(784): WebController->renderFile()
+#1 D:\wwwroot\aisoupin\protected\controllers\WebController.php(32): WebController->render()
+#2 D:\wwwroot\framework\web\actions\CInlineAction.php(49): WebController->actionIndex()
+#3 D:\wwwroot\framework\web\CController.php(308): CInlineAction->runWithParams()
+#4 D:\wwwroot\framework\web\CController.php(286): WebController->runAction()
+#5 D:\wwwroot\framework\web\CController.php(265): WebController->runActionWithFilters()
+#6 D:\wwwroot\framework\web\CWebApplication.php(282): WebController->run()
+#7 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#9 D:\wwwroot\aisoupin\index.php(28): CWebApplication->run()
+REQUEST_URI=/
+in D:\wwwroot\aisoupin\protected\views\layouts\main.php (5)
+in D:\wwwroot\aisoupin\protected\controllers\WebController.php (32)
+in D:\wwwroot\aisoupin\index.php (28)
+2016/11/30 09:34:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/
+---
+2016/11/30 09:35:44 [error] [php] Undefined index: index (D:\wwwroot\aisoupin\protected\views\layouts\main.php:5)
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(784): WebController->renderFile()
+#1 D:\wwwroot\aisoupin\protected\controllers\WebController.php(32): WebController->render()
+#2 D:\wwwroot\framework\web\actions\CInlineAction.php(49): WebController->actionIndex()
+#3 D:\wwwroot\framework\web\CController.php(308): CInlineAction->runWithParams()
+#4 D:\wwwroot\framework\web\CController.php(286): WebController->runAction()
+#5 D:\wwwroot\framework\web\CController.php(265): WebController->runActionWithFilters()
+#6 D:\wwwroot\framework\web\CWebApplication.php(282): WebController->run()
+#7 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#9 D:\wwwroot\aisoupin\index.php(28): CWebApplication->run()
+REQUEST_URI=/
+in D:\wwwroot\aisoupin\protected\views\layouts\main.php (5)
+in D:\wwwroot\aisoupin\protected\controllers\WebController.php (32)
+in D:\wwwroot\aisoupin\index.php (28)
+2016/11/30 09:35:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/
+---
+2016/11/30 09:36:15 [error] [php] Undefined index: index (D:\wwwroot\aisoupin\protected\views\layouts\main.php:5)
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(784): WebController->renderFile()
+#1 D:\wwwroot\aisoupin\protected\controllers\WebController.php(32): WebController->render()
+#2 D:\wwwroot\framework\web\actions\CInlineAction.php(49): WebController->actionIndex()
+#3 D:\wwwroot\framework\web\CController.php(308): CInlineAction->runWithParams()
+#4 D:\wwwroot\framework\web\CController.php(286): WebController->runAction()
+#5 D:\wwwroot\framework\web\CController.php(265): WebController->runActionWithFilters()
+#6 D:\wwwroot\framework\web\CWebApplication.php(282): WebController->run()
+#7 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#9 D:\wwwroot\aisoupin\index.php(28): CWebApplication->run()
+REQUEST_URI=/
+in D:\wwwroot\aisoupin\protected\views\layouts\main.php (5)
+in D:\wwwroot\aisoupin\protected\controllers\WebController.php (32)
+in D:\wwwroot\aisoupin\index.php (28)
+2016/11/30 09:36:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/
+---
+2016/11/30 09:37:00 [error] [php] Undefined index: index (D:\wwwroot\aisoupin\protected\views\layouts\main.php:5)
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(784): WebController->renderFile()
+#1 D:\wwwroot\aisoupin\protected\controllers\WebController.php(32): WebController->render()
+#2 D:\wwwroot\framework\web\actions\CInlineAction.php(49): WebController->actionIndex()
+#3 D:\wwwroot\framework\web\CController.php(308): CInlineAction->runWithParams()
+#4 D:\wwwroot\framework\web\CController.php(286): WebController->runAction()
+#5 D:\wwwroot\framework\web\CController.php(265): WebController->runActionWithFilters()
+#6 D:\wwwroot\framework\web\CWebApplication.php(282): WebController->run()
+#7 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#9 D:\wwwroot\aisoupin\index.php(28): CWebApplication->run()
+REQUEST_URI=/
+in D:\wwwroot\aisoupin\protected\views\layouts\main.php (5)
+in D:\wwwroot\aisoupin\protected\controllers\WebController.php (32)
+in D:\wwwroot\aisoupin\index.php (28)
+2016/11/30 09:37:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/
+---
+2016/11/30 09:37:23 [error] [php] Undefined index: index (D:\wwwroot\aisoupin\protected\views\layouts\main.php:5)
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(784): WebController->renderFile()
+#1 D:\wwwroot\aisoupin\protected\controllers\WebController.php(32): WebController->render()
+#2 D:\wwwroot\framework\web\actions\CInlineAction.php(49): WebController->actionIndex()
+#3 D:\wwwroot\framework\web\CController.php(308): CInlineAction->runWithParams()
+#4 D:\wwwroot\framework\web\CController.php(286): WebController->runAction()
+#5 D:\wwwroot\framework\web\CController.php(265): WebController->runActionWithFilters()
+#6 D:\wwwroot\framework\web\CWebApplication.php(282): WebController->run()
+#7 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#9 D:\wwwroot\aisoupin\index.php(28): CWebApplication->run()
+REQUEST_URI=/
+in D:\wwwroot\aisoupin\protected\views\layouts\main.php (5)
+in D:\wwwroot\aisoupin\protected\controllers\WebController.php (32)
+in D:\wwwroot\aisoupin\index.php (28)
+2016/11/30 09:37:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/
+---
+2016/11/30 09:37:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/
+---
+2016/11/30 09:39:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/
+---
+2016/12/02 15:53:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 15:58:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 15:58:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/
+---
+2016/12/02 15:59:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/asp.php
+---
+2016/12/02 15:59:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/asp.php
+---
+2016/12/02 16:01:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/asp.php
+---
+2016/12/02 16:01:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:02:01 [error] [php] Undefined index: detail (D:\wwwroot\aisoupin\protected\views\layouts\main.php:5)
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(784): WebController->renderFile()
+#1 D:\wwwroot\aisoupin\protected\controllers\WebController.php(234): WebController->render()
+#2 D:\wwwroot\framework\web\actions\CInlineAction.php(49): WebController->actionDetail()
+#3 D:\wwwroot\framework\web\CController.php(308): CInlineAction->runWithParams()
+#4 D:\wwwroot\framework\web\CController.php(286): WebController->runAction()
+#5 D:\wwwroot\framework\web\CController.php(265): WebController->runActionWithFilters()
+#6 D:\wwwroot\framework\web\CWebApplication.php(282): WebController->run()
+#7 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#9 D:\wwwroot\aisoupin\index.php(28): CWebApplication->run()
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+in D:\wwwroot\aisoupin\protected\views\layouts\main.php (5)
+in D:\wwwroot\aisoupin\protected\controllers\WebController.php (234)
+in D:\wwwroot\aisoupin\index.php (28)
+2016/12/02 16:02:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:04:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:06:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:24:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:25:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/
+---
+2016/12/02 16:25:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(28): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/web/index
+---
+2016/12/02 16:30:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(37): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:30:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(37): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:30:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(37): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:31:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(37): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:31:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(37): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:31:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(37): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:31:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(37): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:32:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "detail.php".' in D:\wwwroot\framework\web\CController.php:483
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(270): CController->missingAction('detail.php')
+#1 D:\wwwroot\framework\web\CWebApplication.php(282): CController->run('detail.php')
+#2 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('web/detail.php')
+#3 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 D:\wwwroot\aisoupin\index.php(37): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:32:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(37): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:35:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(37): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:35:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(37): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:36:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(37): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/web/detail?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:43:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(43): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:43:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(43): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/detail?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:43:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(43): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:44:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(43): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "detail.php".' in D:\wwwroot\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('detail.php')
+#1 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\wwwroot\aisoupin\index.php(43): CApplication->run()
+#3 {main}
+REQUEST_URI=/detail.php?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:47:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in D:\wwwroot\framework\web\CController.php:483
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 D:\wwwroot\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('web/favicon.ico')
+#3 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 D:\wwwroot\aisoupin\index.php(44): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/web/detail?id=50972&sid=69430396&from=tbd
+---
+2016/12/02 16:47:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in D:\wwwroot\framework\web\CController.php:483
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 D:\wwwroot\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('web/favicon.ico')
+#3 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 D:\wwwroot\aisoupin\index.php(44): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/web/tejia
+---
+2016/12/02 16:47:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in D:\wwwroot\framework\web\CController.php:483
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 D:\wwwroot\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('web/favicon.ico')
+#3 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 D:\wwwroot\aisoupin\index.php(44): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/web/tejia
+---
+2016/12/02 16:47:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "favicon.ico".' in D:\wwwroot\framework\web\CController.php:483
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(270): CController->missingAction('favicon.ico')
+#1 D:\wwwroot\framework\web\CWebApplication.php(282): CController->run('favicon.ico')
+#2 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('web/favicon.ico')
+#3 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 D:\wwwroot\aisoupin\index.php(44): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/favicon.ico
+HTTP_REFERER=http://local.aisoupin.com/web/index
+---
+2017/06/02 17:39:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "tejia.php".' in D:\wwwroot\framework\web\CController.php:483
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(270): CController->missingAction('tejia.php')
+#1 D:\wwwroot\framework\web\CWebApplication.php(282): CController->run('tejia.php')
+#2 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('web/tejia.php')
+#3 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 D:\wwwroot\aisoupin\index.php(48): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/tejia.php?promotionId=3
+---
+2017/06/02 17:41:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "tejia.php".' in D:\wwwroot\framework\web\CController.php:483
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(270): CController->missingAction('tejia.php')
+#1 D:\wwwroot\framework\web\CWebApplication.php(282): CController->run('tejia.php')
+#2 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('web/tejia.php')
+#3 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 D:\wwwroot\aisoupin\index.php(48): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/tejia.php?promotionId=3
+HTTP_REFERER=http://local.aisoupin.com/web/tejia
+---
+2017/06/02 17:41:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "tejia.php".' in D:\wwwroot\framework\web\CController.php:483
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(270): CController->missingAction('tejia.php')
+#1 D:\wwwroot\framework\web\CWebApplication.php(282): CController->run('tejia.php')
+#2 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('web/tejia.php')
+#3 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 D:\wwwroot\aisoupin\index.php(48): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/tejia.php?promotionId=2
+HTTP_REFERER=http://local.aisoupin.com/web/tejia
+---
+2017/06/02 17:41:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "tejia.php".' in D:\wwwroot\framework\web\CController.php:483
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(270): CController->missingAction('tejia.php')
+#1 D:\wwwroot\framework\web\CWebApplication.php(282): CController->run('tejia.php')
+#2 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('web/tejia.php')
+#3 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 D:\wwwroot\aisoupin\index.php(48): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/tejia.php?promotionId=2
+HTTP_REFERER=http://local.aisoupin.com/web/tejia?promotionId=2
+---
+2017/06/02 17:42:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "tejia.php".' in D:\wwwroot\framework\web\CController.php:483
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(270): CController->missingAction('tejia.php')
+#1 D:\wwwroot\framework\web\CWebApplication.php(282): CController->run('tejia.php')
+#2 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController('web/tejia.php')
+#3 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 D:\wwwroot\aisoupin\index.php(48): CApplication->run()
+#5 {main}
+REQUEST_URI=/web/tejia.php?promotionId=0
+HTTP_REFERER=http://local.aisoupin.com/web/tejia?promotionId=2
+---
+2017/07/03 16:21:53 [error] [php] Use of undefined constant haystack - assumed 'haystack' (D:\wwwroot\aisoupin\protected\views\web\index.php:105)
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(869): WebController->renderFile()
+#1 D:\wwwroot\framework\web\CController.php(782): WebController->renderPartial()
+#2 D:\wwwroot\aisoupin\protected\controllers\WebController.php(33): WebController->render()
+#3 D:\wwwroot\framework\web\actions\CInlineAction.php(49): WebController->actionIndex()
+#4 D:\wwwroot\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wwwroot\framework\web\CController.php(286): WebController->runAction()
+#6 D:\wwwroot\framework\web\CController.php(265): WebController->runActionWithFilters()
+#7 D:\wwwroot\framework\web\CWebApplication.php(282): WebController->run()
+#8 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wwwroot\aisoupin\index.php(48): CWebApplication->run()
+REQUEST_URI=/web/index
+in D:\wwwroot\aisoupin\protected\views\web\index.php (105)
+in D:\wwwroot\aisoupin\protected\controllers\WebController.php (33)
+in D:\wwwroot\aisoupin\index.php (48)
+2017/07/14 17:22:08 [error] [php] Array to string conversion (D:\wwwroot\aisoupin\protected\controllers\WebController.php:232)
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(286): WebController->runAction()
+#1 D:\wwwroot\framework\web\CController.php(265): WebController->runActionWithFilters()
+#2 D:\wwwroot\framework\web\CWebApplication.php(282): WebController->run()
+#3 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#5 D:\wwwroot\aisoupin\index.php(48): CWebApplication->run()
+REQUEST_URI=/web/detail?id=0&sid=59862593&did=43912&from=tbd
+in D:\wwwroot\aisoupin\protected\controllers\WebController.php (232)
+in D:\wwwroot\aisoupin\index.php (48)
+2017/07/14 17:36:37 [error] [php] Undefined variable: value (D:\wwwroot\aisoupin\protected\views\web\detail.php:9)
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(869): WebController->renderFile()
+#1 D:\wwwroot\framework\web\CController.php(782): WebController->renderPartial()
+#2 D:\wwwroot\aisoupin\protected\controllers\WebController.php(239): WebController->render()
+#3 D:\wwwroot\framework\web\actions\CInlineAction.php(49): WebController->actionDetail()
+#4 D:\wwwroot\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wwwroot\framework\web\CController.php(286): WebController->runAction()
+#6 D:\wwwroot\framework\web\CController.php(265): WebController->runActionWithFilters()
+#7 D:\wwwroot\framework\web\CWebApplication.php(282): WebController->run()
+#8 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wwwroot\aisoupin\index.php(48): CWebApplication->run()
+REQUEST_URI=/web/detail?id=0&sid=59862593&did=43912&from=tbd
+in D:\wwwroot\aisoupin\protected\views\web\detail.php (9)
+in D:\wwwroot\aisoupin\protected\controllers\WebController.php (239)
+in D:\wwwroot\aisoupin\index.php (48)
+2017/07/24 15:31:40 [error] [php] Undefined index: items (D:\wwwroot\aisoupin\protected\views\web\detail.php:32)
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(869): WebController->renderFile()
+#1 D:\wwwroot\framework\web\CController.php(782): WebController->renderPartial()
+#2 D:\wwwroot\aisoupin\protected\controllers\WebController.php(240): WebController->render()
+#3 D:\wwwroot\framework\web\actions\CInlineAction.php(49): WebController->actionDetail()
+#4 D:\wwwroot\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wwwroot\framework\web\CController.php(286): WebController->runAction()
+#6 D:\wwwroot\framework\web\CController.php(265): WebController->runActionWithFilters()
+#7 D:\wwwroot\framework\web\CWebApplication.php(282): WebController->run()
+#8 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wwwroot\aisoupin\index.php(48): CWebApplication->run()
+REQUEST_URI=/web/detail?id=49779&sid=106680751&from=tbd
+in D:\wwwroot\aisoupin\protected\views\web\detail.php (32)
+in D:\wwwroot\aisoupin\protected\controllers\WebController.php (240)
+in D:\wwwroot\aisoupin\index.php (48)
+2017/07/31 15:22:14 [error] [php] Undefined index: desc (D:\wwwroot\aisoupin\protected\views\web\detail.php:9)
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(869): WebController->renderFile()
+#1 D:\wwwroot\framework\web\CController.php(782): WebController->renderPartial()
+#2 D:\wwwroot\aisoupin\protected\controllers\WebController.php(240): WebController->render()
+#3 D:\wwwroot\framework\web\actions\CInlineAction.php(49): WebController->actionDetail()
+#4 D:\wwwroot\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wwwroot\framework\web\CController.php(286): WebController->runAction()
+#6 D:\wwwroot\framework\web\CController.php(265): WebController->runActionWithFilters()
+#7 D:\wwwroot\framework\web\CWebApplication.php(282): WebController->run()
+#8 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wwwroot\aisoupin\index.php(48): CWebApplication->run()
+REQUEST_URI=/web/detail?id=52657&sid=65190187&from=tbd
+in D:\wwwroot\aisoupin\protected\views\web\detail.php (9)
+in D:\wwwroot\aisoupin\protected\controllers\WebController.php (240)
+in D:\wwwroot\aisoupin\index.php (48)
+2017/07/31 15:23:37 [error] [php] Undefined index: created (D:\wwwroot\aisoupin\protected\views\web\detail.php:11)
+Stack trace:
+#0 D:\wwwroot\framework\web\CController.php(869): WebController->renderFile()
+#1 D:\wwwroot\framework\web\CController.php(782): WebController->renderPartial()
+#2 D:\wwwroot\aisoupin\protected\controllers\WebController.php(240): WebController->render()
+#3 D:\wwwroot\framework\web\actions\CInlineAction.php(49): WebController->actionDetail()
+#4 D:\wwwroot\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 D:\wwwroot\framework\web\CController.php(286): WebController->runAction()
+#6 D:\wwwroot\framework\web\CController.php(265): WebController->runActionWithFilters()
+#7 D:\wwwroot\framework\web\CWebApplication.php(282): WebController->run()
+#8 D:\wwwroot\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 D:\wwwroot\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\wwwroot\aisoupin\index.php(48): CWebApplication->run()
+REQUEST_URI=/web/detail?id=52657&sid=65190187&from=tbd
+in D:\wwwroot\aisoupin\protected\views\web\detail.php (11)
+in D:\wwwroot\aisoupin\protected\controllers\WebController.php (240)
+in D:\wwwroot\aisoupin\index.php (48)
